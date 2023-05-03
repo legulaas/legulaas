@@ -30,15 +30,10 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="left">🌎 Social Media</h2>
-<a href="https://www.instagram.com/legulaas/"><img src="https://skillicons.dev/icons?i=instagram" /><span>@legulaas</span></a><br>
+<a href="https://www.instagram.com/legulaas/" style="background-color: red;"><img src="https://skillicons.dev/icons?i=instagram" /><span>@legulaas</span></a><br>
 <a href="https://twitter.com/legulaas22"><img src="https://skillicons.dev/icons?i=twitter" /><span>@legulaas22</span></a><br>
 <a href="https://www.linkedin.com/in/matheus-fragoso-79876823b/"><img src="https://skillicons.dev/icons?i=linkedin" /><span>Matheus Fragoso</span></a><br>
 
-<style>
-  h1 {
-    background-color: red;
-  }
-</style>
           
           
 
