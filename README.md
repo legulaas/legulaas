@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h2> Skills 🖥️ </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,php,mysql,git,github,html,css,bootstrap,dotnet,linux,discord" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,php,mysql,git,github,html,css,bootstrap,dotnet,linux,discord&perline=3" />
   </a>
 </p>
           
