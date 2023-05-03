@@ -26,7 +26,7 @@
 
 <h4>Brasil🇧🇷</h4>
 <h1 align="center">👋 Olá, sou o Matheus Fragoso</h1>
-<h2 align="left"> 💬 Sobre mim </h2>
+<h2 align="left"> 💬 Sobre Mim </h2>
 <p style="line-height: 1.5">
   Olá! Meu nome é Matheus de Andrade Fragoso, tenho 19 anos, moro em Sorocaba, SP, Brasil e estudo Engenharia da Computação na Universidade de Sorocaba (UNISO).
   Comecei como desenvolvedor no início de 2022 após terminar meu ensino médio e ingressar na universidade. A primeira linguagem de programação que aprendi a desenvolver foi Python. Após isso, entrei no meu emprego atual, como Desenvolvedor Web e Mobile onde adquiri habilidades com JavaScript, PHP e MySQL. 
