@@ -1,21 +1,5 @@
 <h4>Global🌏</h4>
 <h1 align="center">👋 Hello, I'm Matheus Fragoso</h1>
-
-<!--
-**legulaas/legulaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="left"> 💬 About Me </h2>
 <p style="line-height: 1.5">
   Hi! My name is Matheus de Andrade Fragoso, I'm 19 years old, I live in Sorocaba, SP, Brazil and  I study Computer Engineering at the University of Sorocaba (UNISO).
@@ -33,6 +17,33 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/legulaas/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://twitter.com/legulaas22"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/matheus-fragoso-79876823b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h4>Brasil🇧🇷</h4>
+<h1 align="center">👋 Olá, sou o Matheus Fragoso</h1>
+<h2 align="left"> 💬 Sobre mim </h2>
+<p style="line-height: 1.5">
+  Olá! Meu nome é Matheus de Andrade Fragoso, tenho 19 anos, moro em Sorocaba, SP, Brasil e estudo Engenharia da Computação na Universidade de Sorocaba (UNISO).
+  Comecei como desenvolvedor no início de 2022 após terminar meu ensino médio e ingressar na universidade. A primeira linguagem de programação que aprendi a desenvolver foi Python. Após isso, entrei no meu emprego atual, como Desenvolvedor Web e Mobile onde adquiri habilidades com JavaScript, PHP e MySQL. 
+  Neste ano de 2023, comecei a estudar programação em C# e Java. Adquiri cursos nessas linguagens para me tornar um desenvolvedor completo e atualizado de acordo com o mercado de trabalho. Estou aberto a novas oportunidades de trabalho para consolidar minha carreira.</p>
+  
+<h2 align="left">🖥️ Habilidades </h2>
+<p align="left">
+  <a>
+    <img src="https://skillicons.dev/icons?i=cs,java,py,php,mysql,git,github,html,css,bootstrap,dotnet,discord&perline=6" />
+  </a>
+</p>
+
+<h2 align="left">🌎 Redes Sociais</h2>
+<a href="https://www.instagram.com/legulaas/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://twitter.com/legulaas22"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/matheus-fragoso-79876823b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+
 
           
           
