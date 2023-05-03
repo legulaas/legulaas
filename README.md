@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   In this year of 2023 I started to study programming in C# and Java. I acquired courses in these languages to become a complete and up-to-date developer according to the job market. I am open to new job opportunities to consolidate my career.</p>
   
   <h2> Skills 🖥️ </h2>
-  - [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  
  
 
