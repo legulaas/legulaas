@@ -15,7 +15,6 @@
 
 <h2 align="left">🌎 Social Media</h2>
 <a href="https://www.instagram.com/legulaas/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://twitter.com/legulaas22"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/matheus-fragoso-79876823b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 <br>
@@ -41,7 +40,6 @@
 
 <h2 align="left">🌎 Redes Sociais</h2>
 <a href="https://www.instagram.com/legulaas/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://twitter.com/legulaas22"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/matheus-fragoso-79876823b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 
